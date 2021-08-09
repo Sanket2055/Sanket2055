@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket2055&label=Profile%20views&color=0e75b6&style=flat" alt="sanket2055" /> </p>
+
 
 
 
@@ -24,6 +24,7 @@
 </p>
  <br />
   <br />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket2055&label=Profile%20views&color=0e75b6&style=flat" alt="sanket2055" /> </p>
    <br />
 
 <h3 align="left">Languages and Tools:</h3>
