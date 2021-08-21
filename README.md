@@ -43,7 +43,22 @@
  <br />
   <br />
    <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket2055&show_icons=true&locale=en" alt="sanket2055" /></p>
+<details close="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats : </strong>
+</summary>
+<br>
+  
+<p align="center">
+<a href="https://github.com/sanket2055">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=sanket2055&show_icons=true&theme=tokyonight" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket2055&=true&theme=tokyonight" />
+</a>
+</p>
+</details>
+<br>
+
 
  <br />
   <br />
