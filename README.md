@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning  more about Web development .
-- 🎓 currently Student at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.
+- 🎓 Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.
 - 👯 I love to Explore new Techs 
 - 💬 Feel free to reach out to me for some interesting discussion.
 - ⚡ Fun fact: I do believe in extraterrestrial life.
