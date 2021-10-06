@@ -57,8 +57,6 @@
 
  <br />
   <br />
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanket2055&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanket2055&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanket2055&theme=github_dark)
+
  <br />
   <br /> <br />
