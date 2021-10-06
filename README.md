@@ -57,6 +57,8 @@
 
  <br />
   <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket2055&" alt="sanket2055" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanket2055&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanket2055&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanket2055&theme=github_dark)
  <br />
   <br /> <br />
