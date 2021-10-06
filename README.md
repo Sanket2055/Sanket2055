@@ -38,7 +38,7 @@
  <br />
   <br />
    <br />
-<details close="">
+<!-- <details close=""> -->
 
 <!--   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>  -->
   <strong>Github Stats : </strong>
@@ -51,7 +51,7 @@
   <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanket2055&=true&theme=tokyonight" />
 </a>
 </p>
-</details>
+<!-- </details> -->
 <br>
 
 
