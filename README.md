@@ -27,6 +27,7 @@
 <a href="https://codeforces.com/profile/sir_suspicious" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sir_suspicious" height="30" width="40" /></a>
 </p>
  <br />
+ 
   <br />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket2055&label=Profile%20views&color=0e75b6&style=flat" alt="sanket2055" /> </p>
    <br />
@@ -53,6 +54,7 @@
 </p>
 <!-- </details> -->
 <br>
+ ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Sanket2055&theme=tokyonight&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 
  <br />
