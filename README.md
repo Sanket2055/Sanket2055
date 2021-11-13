@@ -54,11 +54,11 @@
 </p>
 <!-- </details> -->
 <br>
- <div align="center">
+<!--  <div align="center">
      
      
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Sanket2055&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
+</div> -->
 
 
  <br />
