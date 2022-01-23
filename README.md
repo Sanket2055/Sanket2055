@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning  more about Web development .
+- 🌱 I’m currently learning more about  MERN.
 - 🎓 Sophomore at the INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, GWALIOR.
 - 👯 I love to Explore new Techs 
 - 💬 Feel free to reach out to me for some interesting discussion.
