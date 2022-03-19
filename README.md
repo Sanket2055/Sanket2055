@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Sanket2055/Sanket2055/1db993b16f362e01c9b17551d16b17ff84e826a9/myname.svg" />
+<!--   <img src="https://raw.githubusercontent.com/Sanket2055/Sanket2055/1db993b16f362e01c9b17551d16b17ff84e826a9/myname.svg" /> -->
 </h1>
 
 <h1 align="center">Hi 👋, I'm Sanket</h1>
