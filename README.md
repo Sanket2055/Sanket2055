@@ -63,6 +63,7 @@
 
  <br />
   <br />
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qhyn6shdddhuw7epvwc60b465&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=qhyn6shdddhuw7epvwc60b465&redirect=true)
 
  <br />
   <br /> <br />
